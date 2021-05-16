@@ -1,0 +1,20 @@
+	WELCOME
+
+ Bill no. :  9280
+ Name : lily
+ Phone no. : 9980764532
+======================================
+ Products		QTY		Price
+======================================
+ Apple		3		120
+ Chickoo		2		10
+ Daal		1		55
+ Sugar		3		135
+ Onion		2		80
+ Carrot		4		180
+--------------------------------------
+ Fruits Tax			Rs.  6.5
+ Grocery Tax			Rs.  19.0
+ Vegetables Tax			Rs.  13.0
+ Total Bill : 			 Rs. 618.5
+--------------------------------------
